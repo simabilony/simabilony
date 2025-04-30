@@ -6,6 +6,10 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simabilony&show_icons=true&theme=radical)  
+
+## 📊 إحصائيات GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simabilony&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simabilony&layout=compact&theme=dark)  
 <!--
 **simabilony/simabilony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
