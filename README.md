@@ -14,7 +14,9 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=simabilony&theme=onedark)
 
 ### 💡 أنا حالياً...  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=أتعلم+الأمن+السيبراني;أطور+تطبيقاً+بلارافيل;أحب+البرمجة!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=أصمم+واجهات+برمجة+(API)+قابلة+للتوسع;أحسن+أداء+قواعد+البيانات+بـ+Eloquent;أطور+لوحات+تحكم+إدارية+بـ+Filament;أبني+أنظمة+Authentication+متقدمة)
+
 <!--
 **simabilony/simabilony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
