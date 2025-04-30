@@ -12,6 +12,9 @@
 ![Visitors](https://komarev.com/ghpvc/?username=simabilony&label=Profile%20views&color=blueviolet)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=simabilony&theme=onedark)
+
+### 💡 أنا حالياً...  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=أتعلم+الأمن+السيبراني;أطور+تطبيقاً+بلارافيل;أحب+البرمجة!)
 <!--
 **simabilony/simabilony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
