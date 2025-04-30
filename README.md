@@ -4,9 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simabilony&theme=dark)](https://git.io/streak-stats)  
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simabilony&show_icons=true&theme=radical)  
-
 ## 📊 إحصائيات GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simabilony&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simabilony&layout=compact&theme=dark)  
