@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there in my GitHub profile👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=simabilony&theme=cobalt&mode=weekly&card_width=625)](https://git.io/streak-stats)
 
 <!--
 **simabilony/simabilony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
