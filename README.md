@@ -1,11 +1,8 @@
 ## Hi there in my GitHub profile👋
 
-
-## 🔥 إحصائيات GitHub Streak  
+## 📈 نشاطي على GitHub  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simabilony&theme=dark)](https://git.io/streak-stats)  
-
-## 📊 إحصائيات أخرى  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simabilony&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simabilony&show_icons=true)  
 <!--
 **simabilony/simabilony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
