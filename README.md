@@ -7,6 +7,9 @@
 ## 📊 إحصائيات GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simabilony&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simabilony&layout=compact&theme=dark)  
+
+![Followers](https://img.shields.io/github/followers/simabilony?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=simabilony&label=Profile%20views&color=blueviolet)
 <!--
 **simabilony/simabilony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
