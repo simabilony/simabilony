@@ -10,6 +10,9 @@
 
 ![Followers](https://img.shields.io/github/followers/simabilony?style=social)
 ![Visitors](https://komarev.com/ghpvc/?username=simabilony&label=Profile%20views&color=blueviolet)
+
+![Snake Animation](https://github.com/simabilony/simabilony/blob/output/github-contribution-grid-snake.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=simabilony&theme=onedark)
 <!--
 **simabilony/simabilony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
